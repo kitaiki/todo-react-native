@@ -1,2 +1,2 @@
 # todo-react-native
-todo app 
+todo app
